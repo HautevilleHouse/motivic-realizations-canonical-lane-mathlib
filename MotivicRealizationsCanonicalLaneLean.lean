@@ -1,0 +1,7 @@
+-- This module is the root of the MotivicRealizationsCanonicalLaneLean Lean proof package.
+import MotivicRealizationsCanonicalLaneLean.Basic
+import MotivicRealizationsCanonicalLaneLean.SourcePackage
+import MotivicRealizationsCanonicalLaneLean.SourceDependencies
+import MotivicRealizationsCanonicalLaneLean.Formalization
+import MotivicRealizationsCanonicalLaneLean.ReviewerBridge
+import MotivicRealizationsCanonicalLaneLean.TheoremStatement
